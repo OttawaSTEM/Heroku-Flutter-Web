@@ -22138,7 +22138,7 @@ $ip:1}
 P.zr.prototype={}
 P.zs.prototype={}
 F.tG.prototype={
-L:function(a){return new S.mP(new F.n2("Flutter Demo Home Page",null),"Flutter Demo",X.RQ(null,C.kO,X.XK()),null)}}
+L:function(a){return new S.mP(new F.n2("Flutter Home Page",null),"Flutter Demo",X.RQ(null,C.kO,X.XK()),null)}}
 F.n2.prototype={
 aK:function(){return new F.pd(C.o)}}
 F.pd.prototype={
