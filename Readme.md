@@ -8,8 +8,13 @@ Deploy static website as a PHP app.
 ```
 
 ## 2. Create ```index.php```
+Not embed
 ```
 <?php include_once("home.html"); ?>
+```
+Embed
+```
+<?php include_once("index.html"); ?>
 ```
 
 ## 3. Rename the homepage (e.g. index.html) to home.html
