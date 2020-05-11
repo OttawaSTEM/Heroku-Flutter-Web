@@ -18,16 +18,16 @@ Deploy static website as a PHP app.
 Create ```app.json``` file
 ```
 {
-    "name": "Heroku Static Website Github deployment",
-    "description": "Heroku Static Website deployment",
-    "repository": "https://github.com/OttawaSTEM/Heroku-Static/",
+    "name": "Heroku Flutter-Web Github deployment",
+    "description": "Heroku Flutter-Web Github deployment",
+    "repository": "https://github.com/OttawaSTEM/Heroku-FlutterWeb/",
     "logo": "https://ottawastem.com/static/site/img/logo-big.png",
-    "keywords": ["heroku", "php", "github"]
+    "keywords": ["heroku", "php", "github", "Flutter Web"]
 }
 ```
 
 ## 5. Add the Heroku button in ```Readme.md``` for Github
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/OttawaSTEM/Heroku-Static/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/OttawaSTEM/Heroku-FlutterWeb/)
 
 ## 6. Connect Github to Heroku
 ### 6.1 Under Heroku application -> "Deploy" -> "Deployment method"
